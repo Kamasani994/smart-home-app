@@ -8,9 +8,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 First, you will need to clone the repository from git.
 
-```bash
 # git clone [https://github.com/Kamasani994/smart-home-app.git](https://github.com/Kamasani994/smart-home-app.git)
-```
+
 ## Step 2: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
